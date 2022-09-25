@@ -31,7 +31,7 @@ int main()
         case 2:
             cout << "masukkan jari"<<endl;
             cin >> jari;
-            cout <<"Luas dari Lingkaran adalah:"<<jari * jari / pi << endl;
+            cout <<"Luas dari Lingkaran adalah:"<<jari * jari * pi << endl;
             break;
         default:
             cout << "Apa kuwi?" << endl;
