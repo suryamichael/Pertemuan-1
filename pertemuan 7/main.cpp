@@ -11,7 +11,7 @@ int main()
     cout << "3. Desain komunikasi Visual" << endl;
     cout << endl;
 
-    int pilih, x, y, z, a;
+    int pilih, x;
     cout << "Kamu masuk jurusan mana ? (ketik nomornya saja)" << endl;
     cout << "Masukkan Jurusan:";
     cin >> pilih;
