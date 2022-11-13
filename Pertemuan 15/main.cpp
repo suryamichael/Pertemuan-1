@@ -6,6 +6,7 @@ int main()
 {
     int x, y, z, b;
     b = 5000;
+    
     cout << "Dito wants a candys!!!!" << endl;
     cout << "Tapi Uang yang ia miliki hanya sebanyak 5000 rupiah :(" << endl;
     cout << "Ayo bantu dia untuk menghitung berapa permen yang bisa dimiliki nya!!" << endl;
@@ -45,6 +46,7 @@ int main()
         default:
         cout << "Yah Dito gagal membeli permennya, salah input sih:)";
     }
-
+    cout <<"Michael Surya" << endl;
+    cout <<"A11.2022.14124" << endl;
     return 0;
 }
